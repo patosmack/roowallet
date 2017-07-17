@@ -2,8 +2,6 @@
 ========
 Wallet Package for **Laravel** that allows you to maintain credits for your users.
 
-Version 1.0.1
-
 Installation
 ============
 To install the package, include the following in your composer.json.
