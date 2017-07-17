@@ -1,0 +1,20 @@
+{
+    "name": "patosmack/roowallet",
+    "description": "Digital Wallet for Laravel",
+    "keywords": ["wallet", "ocurrency", "money"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Patricio Alvarez",
+            "email": "patosmack@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Patosmack\\RooWallet\\" : "src/"
+        }
+    }
+}
